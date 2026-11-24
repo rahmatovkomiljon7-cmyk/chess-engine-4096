@@ -1,0 +1,6 @@
+.freebuff/
+.cloud-attachments/
+.venv/
+venv/
+__pycache__/
+*.pyc
